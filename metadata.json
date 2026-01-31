@@ -1,0 +1,8 @@
+{
+  "name": "AGENT-i Marketplace",
+  "description": "A premier marketplace for high-performance AI agents. Discover, purchase, and deploy specialized AI agents for sales, marketing, support, and automation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
